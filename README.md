@@ -1,6 +1,6 @@
 # Remediation Scoring Model for Database Migrations
 
-The **Remediation Scoring Model (RSM)** is a quantitative framework designed to estimate the engineering effort required to remediate incompatible code, queries, operations, and architectural constructs during database migrations.
+The **Remediation Scoring Model** is a quantitative framework designed to estimate the engineering effort required to remediate incompatible code, queries, operations, and architectural constructs during database migrations.
 
 The methodology provides a repeatable and structured approach for evaluating migration complexity across applications, modules, or workloads.
 
@@ -8,7 +8,7 @@ The methodology provides a repeatable and structured approach for evaluating mig
 
 # Overview
 
-Database migrations are rarely simple “lift-and-shift” exercises. Even when compatibility layers or automated conversion tools exist, workloads often contain unsupported operations, incompatible logic, or architectural assumptions that require remediation.
+Database migrations are rarely simple "lift-and-shift" exercises. Even when compatibility layers or automated conversion tools exist, workloads often contain unsupported operations, incompatible logic, or architectural assumptions that require remediation.
 
 The Remediation Scoring Model provides:
 
