@@ -239,7 +239,7 @@ Potential future extensions include:
 
 Matt DeMarco
 
-- Blog: https://oramatt.com
+- Blog post: [https://oramatt.com](https://oramatt.com/2025/07/10/remediation-scoring-model-bringing-precision-to-migration-complexity/)
 - GitHub: https://github.com/oramatt
 
 ---
