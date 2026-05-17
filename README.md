@@ -180,16 +180,6 @@ Represents architectural remediation.
 
 ---
 
-# Included Files
-
-| File | Description |
-|------|-------------|
-| `Remediation_Scoring_Model.md` | Technical scoring model documentation |
-| `Remediation_Scoring_For_GenPop.md` | Business-friendly explanation |
-| `Remediation_Scoring_Model_With_Charts.xlsx` | Spreadsheet toolkit with charts and radar graphs |
-
----
-
 # Spreadsheet Features
 
 The Excel toolkit includes:
@@ -211,18 +201,6 @@ The Excel toolkit includes:
 - Architecture reviews
 - Executive reporting
 
----
-
-# Future Enhancements
-
-Potential future extensions include:
-
-- Automated scoring engines
-- AI-assisted remediation classification
-- Query parser integration
-- Workload profiling
-- Migration risk heatmaps
-- Architectural complexity dimensions
 
 ---
 
